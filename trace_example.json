@@ -32,5 +32,21 @@
   {
     "tipo": "ai",
     "contenido": "El último producto que compró el cliente 102 fue un **«Monitor 4K»**."
+  },
+  {
+    "tipo": "human",
+    "contenido": "¿Cuántos pedidos hizo el cliente 102 y cuál fue el total gastado?"
+  },
+  {
+    "tipo": "ai",
+    "contenido": "El cliente 102 realizó **3 pedidos** y el total gastado fue **$14 500,00**."
+  },
+  {
+    "tipo": "human",
+    "contenido": "¿Y cuál fue el último producto que compró?"
+  },
+  {
+    "tipo": "ai",
+    "contenido": "El último producto que adquirió el cliente 102 fue un **«Monitor 4K»**."
   }
 ]
